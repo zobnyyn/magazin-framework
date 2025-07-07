@@ -1,0 +1,334 @@
+[2025-07-07 15:47:23] 
+            Текст ошибки: Page not found | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:48:06] 
+            Текст ошибки: Page not found | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:49:01] 
+            Текст ошибки: Page not found | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:49:10] 
+            Текст ошибки: Page not found | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:49:11] 
+            Текст ошибки: Page not found | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:49:11] 
+            Текст ошибки: Page not found | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:49:11] 
+            Текст ошибки: Page not found | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:49:11] 
+            Текст ошибки: Page not found | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:49:12] 
+            Текст ошибки: Page not found | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:50:32] 
+            Текст ошибки: Page not found | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:51:59] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:53:12] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:56:42] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:56:43] 
+            Текст ошибки: Failed opening required '/var/www/html/publicpublic/errors/development.php' (include_path='.:/usr/local/lib/php') | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:43] 
+            Текст ошибки: require_once(/var/www/html/publicpublic/errors/development.php): Failed to open stream: No such file or directory | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:43] 
+            Текст ошибки: Uncaught Error: Failed opening required '/var/www/html/publicpublic/errors/development.php' (include_path='.:/usr/local/lib/php') in /var/www/html/src/wfm/ErrorHandler.php:62
+Stack trace:
+#0 /var/www/html/src/wfm/ErrorHandler.php(25): Wfm\ErrorHandler->displayError(2, 'require_once(/v...', '/var/www/html/s...', 62)
+#1 /var/www/html/src/wfm/ErrorHandler.php(62): Wfm\ErrorHandler->errorHandler(2, 'require_once(/v...', '/var/www/html/s...', 62)
+#2 /var/www/html/src/wfm/ErrorHandler.php(62): require_once('/var/www/html/s...')
+#3 /var/www/html/src/wfm/ErrorHandler.php(43): Wfm\ErrorHandler->displayError('\xD0\x9E\xD1\x88\xD0\xB8\xD0\xB1\xD0\xBA\xD0\xB0', 'Failed opening ...', '/var/www/html/s...', 62, 500)
+#4 [internal function]: Wfm\ErrorHandler->exceptionHandler(Object(Error))
+#5 {main}
+  thrown | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:43] 
+            Текст ошибки: require_once(/var/www/html/publicpublic/errors/development.php): Failed to open stream: No such file or directory | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:57] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:56:57] 
+            Текст ошибки: Failed opening required '/var/www/html/public/public/errors/development.php' (include_path='.:/usr/local/lib/php') | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:57] 
+            Текст ошибки: require_once(/var/www/html/public/public/errors/development.php): Failed to open stream: No such file or directory | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:57] 
+            Текст ошибки: Uncaught Error: Failed opening required '/var/www/html/public/public/errors/development.php' (include_path='.:/usr/local/lib/php') in /var/www/html/src/wfm/ErrorHandler.php:62
+Stack trace:
+#0 /var/www/html/src/wfm/ErrorHandler.php(25): Wfm\ErrorHandler->displayError(2, 'require_once(/v...', '/var/www/html/s...', 62)
+#1 /var/www/html/src/wfm/ErrorHandler.php(62): Wfm\ErrorHandler->errorHandler(2, 'require_once(/v...', '/var/www/html/s...', 62)
+#2 /var/www/html/src/wfm/ErrorHandler.php(62): require_once('/var/www/html/s...')
+#3 /var/www/html/src/wfm/ErrorHandler.php(43): Wfm\ErrorHandler->displayError('\xD0\x9E\xD1\x88\xD0\xB8\xD0\xB1\xD0\xBA\xD0\xB0', 'Failed opening ...', '/var/www/html/s...', 62, 500)
+#4 [internal function]: Wfm\ErrorHandler->exceptionHandler(Object(Error))
+#5 {main}
+  thrown | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:57] 
+            Текст ошибки: require_once(/var/www/html/public/public/errors/development.php): Failed to open stream: No such file or directory | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:57] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:56:57] 
+            Текст ошибки: Failed opening required '/var/www/html/public/public/errors/development.php' (include_path='.:/usr/local/lib/php') | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:57] 
+            Текст ошибки: require_once(/var/www/html/public/public/errors/development.php): Failed to open stream: No such file or directory | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:57] 
+            Текст ошибки: Uncaught Error: Failed opening required '/var/www/html/public/public/errors/development.php' (include_path='.:/usr/local/lib/php') in /var/www/html/src/wfm/ErrorHandler.php:62
+Stack trace:
+#0 /var/www/html/src/wfm/ErrorHandler.php(25): Wfm\ErrorHandler->displayError(2, 'require_once(/v...', '/var/www/html/s...', 62)
+#1 /var/www/html/src/wfm/ErrorHandler.php(62): Wfm\ErrorHandler->errorHandler(2, 'require_once(/v...', '/var/www/html/s...', 62)
+#2 /var/www/html/src/wfm/ErrorHandler.php(62): require_once('/var/www/html/s...')
+#3 /var/www/html/src/wfm/ErrorHandler.php(43): Wfm\ErrorHandler->displayError('\xD0\x9E\xD1\x88\xD0\xB8\xD0\xB1\xD0\xBA\xD0\xB0', 'Failed opening ...', '/var/www/html/s...', 62, 500)
+#4 [internal function]: Wfm\ErrorHandler->exceptionHandler(Object(Error))
+#5 {main}
+  thrown | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:57] 
+            Текст ошибки: require_once(/var/www/html/public/public/errors/development.php): Failed to open stream: No such file or directory | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:58] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:56:58] 
+            Текст ошибки: Failed opening required '/var/www/html/public/public/errors/development.php' (include_path='.:/usr/local/lib/php') | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:58] 
+            Текст ошибки: require_once(/var/www/html/public/public/errors/development.php): Failed to open stream: No such file or directory | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:58] 
+            Текст ошибки: Uncaught Error: Failed opening required '/var/www/html/public/public/errors/development.php' (include_path='.:/usr/local/lib/php') in /var/www/html/src/wfm/ErrorHandler.php:62
+Stack trace:
+#0 /var/www/html/src/wfm/ErrorHandler.php(25): Wfm\ErrorHandler->displayError(2, 'require_once(/v...', '/var/www/html/s...', 62)
+#1 /var/www/html/src/wfm/ErrorHandler.php(62): Wfm\ErrorHandler->errorHandler(2, 'require_once(/v...', '/var/www/html/s...', 62)
+#2 /var/www/html/src/wfm/ErrorHandler.php(62): require_once('/var/www/html/s...')
+#3 /var/www/html/src/wfm/ErrorHandler.php(43): Wfm\ErrorHandler->displayError('\xD0\x9E\xD1\x88\xD0\xB8\xD0\xB1\xD0\xBA\xD0\xB0', 'Failed opening ...', '/var/www/html/s...', 62, 500)
+#4 [internal function]: Wfm\ErrorHandler->exceptionHandler(Object(Error))
+#5 {main}
+  thrown | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:58] 
+            Текст ошибки: require_once(/var/www/html/public/public/errors/development.php): Failed to open stream: No such file or directory | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:58] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:56:58] 
+            Текст ошибки: Failed opening required '/var/www/html/public/public/errors/development.php' (include_path='.:/usr/local/lib/php') | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:58] 
+            Текст ошибки: require_once(/var/www/html/public/public/errors/development.php): Failed to open stream: No such file or directory | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:58] 
+            Текст ошибки: Uncaught Error: Failed opening required '/var/www/html/public/public/errors/development.php' (include_path='.:/usr/local/lib/php') in /var/www/html/src/wfm/ErrorHandler.php:62
+Stack trace:
+#0 /var/www/html/src/wfm/ErrorHandler.php(25): Wfm\ErrorHandler->displayError(2, 'require_once(/v...', '/var/www/html/s...', 62)
+#1 /var/www/html/src/wfm/ErrorHandler.php(62): Wfm\ErrorHandler->errorHandler(2, 'require_once(/v...', '/var/www/html/s...', 62)
+#2 /var/www/html/src/wfm/ErrorHandler.php(62): require_once('/var/www/html/s...')
+#3 /var/www/html/src/wfm/ErrorHandler.php(43): Wfm\ErrorHandler->displayError('\xD0\x9E\xD1\x88\xD0\xB8\xD0\xB1\xD0\xBA\xD0\xB0', 'Failed opening ...', '/var/www/html/s...', 62, 500)
+#4 [internal function]: Wfm\ErrorHandler->exceptionHandler(Object(Error))
+#5 {main}
+  thrown | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:56:58] 
+            Текст ошибки: require_once(/var/www/html/public/public/errors/development.php): Failed to open stream: No such file or directory | Файл: /var/www/html/src/wfm/ErrorHandler.php | Строка: 62
+[2025-07-07 15:57:06] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:58:16] 
+            Текст ошибки: Test production error | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:59:11] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:59:12] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:59:37] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:59:38] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:59:40] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 15:59:59] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 16:01:02] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 16:02:23] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 16:02:37] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 16:09:40] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 16:09:48] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 8
+[2025-07-07 16:13:09] 
+            Текст ошибки: Undefined variable $test | Файл: /var/www/html/public/index.php | Строка: 9
+[2025-07-07 17:06:38] 
+            Текст ошибки: Class "Router" not found | Файл: /var/www/html/public/index.php | Строка: 11
+[2025-07-07 18:56:38] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:57:37] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:57:38] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:57:39] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:57:39] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:57:39] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:57:39] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:57:56] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:57:57] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:57:57] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:57:57] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:57:57] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:16] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:17] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:17] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:17] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:17] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:17] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:17] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:18] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:18] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:18] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:39] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:52] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:55] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:58:58] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 18:59:26] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:00:26] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:00:26] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:00:27] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:00:27] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:00:27] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:00:27] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:00:28] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:00:28] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:00:28] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:00:31] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:00:37] 
+            Текст ошибки: Страница не найдена: lool.php | Файл: /var/www/html/src/wfm/Router.php | Строка: 39
+[2025-07-07 19:00:45] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:01:26] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:01:27] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:01:27] 
+            Текст ошибки: Контроллер не найден: app\controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:05:39] 
+            Текст ошибки: Контроллер не найден: App\Controllers\admin\AdminController | Файл: /var/www/html/src/wfm/Router.php | Строка: 36
+[2025-07-07 19:06:15] 
+            Текст ошибки: Метод не найден: indexAction в контроллере App\Controllers\admin\AdminController | Файл: /var/www/html/src/wfm/Router.php | Строка: 33
+[2025-07-07 19:07:13] 
+            Текст ошибки: Страница не найдена: view | Файл: /var/www/html/src/wfm/Router.php | Строка: 39
+[2025-07-07 19:21:20] 
+            Текст ошибки: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated | Файл: /var/www/html/src/wfm/Router.php | Строка: 55
+[2025-07-07 19:21:42] 
+            Текст ошибки: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated | Файл: /var/www/html/src/wfm/Router.php | Строка: 55
+[2025-07-07 19:21:45] 
+            Текст ошибки: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated | Файл: /var/www/html/src/wfm/Router.php | Строка: 55
+[2025-07-07 19:21:59] 
+            Текст ошибки: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated | Файл: /var/www/html/src/wfm/Router.php | Строка: 55
+[2025-07-07 19:21:59] 
+            Текст ошибки: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated | Файл: /var/www/html/src/wfm/Router.php | Строка: 55
+[2025-07-07 19:46:44] 
+            Текст ошибки: Class "app\models\Main" not found | Файл: /var/www/html/src/wfm/Controller.php | Строка: 22
+[2025-07-07 19:47:58] 
+            Текст ошибки: Модель не найдена: app\models\Main | Файл: /var/www/html/src/wfm/Controller.php | Строка: 25
+[2025-07-07 19:49:06] 
+            Текст ошибки: Модель не найдена: app\models\Main | Файл: /var/www/html/src/wfm/Controller.php | Строка: 25
+[2025-07-07 19:49:07] 
+            Текст ошибки: Модель не найдена: app\models\Main | Файл: /var/www/html/src/wfm/Controller.php | Строка: 25
+[2025-07-07 19:49:08] 
+            Текст ошибки: Модель не найдена: app\models\Main | Файл: /var/www/html/src/wfm/Controller.php | Строка: 25
+[2025-07-07 19:49:08] 
+            Текст ошибки: Модель не найдена: app\models\Main | Файл: /var/www/html/src/wfm/Controller.php | Строка: 25
+[2025-07-07 19:49:08] 
+            Текст ошибки: Модель не найдена: app\models\Main | Файл: /var/www/html/src/wfm/Controller.php | Строка: 25
+[2025-07-07 19:52:59] 
+            Текст ошибки: Модель не найдена: app\models\Main | Файл: /var/www/html/src/wfm/Controller.php | Строка: 25
+[2025-07-07 19:56:11] 
+            Текст ошибки: Модель не найдена: app\models\Main | Файл: /var/www/html/src/wfm/Controller.php | Строка: 25
+[2025-07-07 20:08:59] 
+            Текст ошибки: Модель не найдена: app\models\Main | Файл: /var/www/html/src/wfm/Controller.php | Строка: 25
+[2025-07-07 20:13:35] 
+            Текст ошибки: Не найдено представление: /var/www/html/app/views/Main/index.php | Файл: /var/www/html/src/wfm/View.php | Строка: 34
+[2025-07-07 20:14:27] 
+            Текст ошибки: Метод не найден: indexAction в контроллере App\Controllers\MainController | Файл: /var/www/html/src/wfm/Router.php | Строка: 51
+[2025-07-07 20:14:45] 
+            Текст ошибки: Не найдено представление: /var/www/html/app/views/Main/index.php | Файл: /var/www/html/src/wfm/View.php | Строка: 34
+[2025-07-07 20:15:55] 
+            Текст ошибки: require(/var/www/html/app/views/layouts/ishop.php): Failed to open stream: No such file or directory | Файл: /var/www/html/src/wfm/View.php | Строка: 37
+[2025-07-07 20:20:54] 
+            Текст ошибки: Страница не найдена: views/Main/index.php | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-07 21:14:21] 
+            Текст ошибки: Call to undefined function Wfm\h() | Файл: /var/www/html/src/wfm/View.php | Строка: 48
+[2025-07-07 22:02:08] 
+            Текст ошибки: Страница не найдена: public/index.php | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-07 22:03:31] 
+            Текст ошибки: Страница не найдена: public/index.php | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-07 22:19:44] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:20:33] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:20:34] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:20:43] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:20:44] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:20:44] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:20:44] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:20:44] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:21:09] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:21:09] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:21:10] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:21:10] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-07 22:22:27] 
+            Текст ошибки: Class "R" not found | Файл: /var/www/html/src/wfm/Db.php | Строка: 14
+[2025-07-07 22:23:01] 
+            Текст ошибки: No connection to the database | Файл: /var/www/html/src/wfm/Db.php | Строка: 17
+[2025-07-07 22:23:32] 
+            Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'egor_db.name' doesn't exist | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
+[2025-07-07 22:24:08] 
+            Текст ошибки: No connection to the database | Файл: /var/www/html/src/wfm/Db.php | Строка: 17
+[2025-07-07 22:24:11] 
+            Текст ошибки: No connection to the database | Файл: /var/www/html/src/wfm/Db.php | Строка: 17
+[2025-07-07 22:24:45] 
+            Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'egor_db.name' doesn't exist | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
+[2025-07-07 22:26:38] 
+            Текст ошибки: No connection to the database | Файл: /var/www/html/src/wfm/Db.php | Строка: 17
+[2025-07-07 22:28:31] 
+            Текст ошибки: Call to undefined method App\Models\Main::getNames() | Файл: /var/www/html/app/Controllers/MainController.php | Строка: 12
+[2025-07-07 22:40:51] 
+            Текст ошибки: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated | Файл: /var/www/html/src/wfm/helpers/functions.php | Строка: 13
+[2025-07-07 22:41:35] 
+            Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'value' in 'field list' | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
+[2025-07-07 22:42:25] 
+            Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
+[2025-07-07 22:42:28] 
+            Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
+[2025-07-07 22:42:59] 
+            Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
+[2025-07-07 22:43:09] 
+            Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
+[2025-07-07 23:05:56] 
+            Текст ошибки: Контроллер не найден: App\Controllers\admin\AdminController | Файл: /var/www/html/src/wfm/Router.php | Строка: 54
