@@ -5,11 +5,11 @@ namespace App\Models;
 use RedBeanPHP\R;
 use Wfm\Model;
 
-class Main extends Model
+class Main extends AppModel
 {
-    public function getNames(): array
+    public function get_hits($lang, $limit): array // тут я короче в бд подкдючился и вытаскиваю товары, которые отмечены как хиты
     {
-        // Получить все записи из таблицы name (или другой, если нужно)
-        return \RedBeanPHP\R::findAll('name');
+        $hits = R::getAll("SELECT p.*, pd.* FROM product p JOIN product_discription pd ON p.id = pd.product_id WHERE p.status = 1 AND p.hit = 1 AND pd.language_id = ? LIMIT $limit", [$lang]);
+        return $hits;
     }
 }

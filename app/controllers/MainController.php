@@ -2,17 +2,25 @@
 
 namespace App\Controllers;
 
+use App\controllers\AppController;
+use App\Models\Main;
 use RedBeanPHP\R;
 use Wfm\Controller;
 
-class MainController extends Controller
+class MainController extends AppController
 {
+    public function __construct($route)
+    {
+        parent::__construct($route);
+        $this->model = new Main();
+    }
+
     public function indexAction()
     {
-        $model = new \App\Models\Main();
-        $names = $model->getNames();
-        $one_name = R::getRow('SELECT * FROM name WHERE id =2'); // пример запроса к базе данных
-        $this->set(['names' => $names]);
-        $this->setMeta('Главная страница', 'Описание главной страницы', 'Ключевые слова главной страницы');
+        $slides = R::findAll('slider');
+
+        $products = $this->model->get_hits(1,6);
+
+        $this->set(compact('slides', 'products')); // передаём данные в представление
     }
 }

@@ -332,3 +332,731 @@ Stack trace:
             Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
 [2025-07-07 23:05:56] 
             Текст ошибки: Контроллер не найден: App\Controllers\admin\AdminController | Файл: /var/www/html/src/wfm/Router.php | Строка: 54
+[2025-07-08 12:18:59] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 12:18:59] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 12:44:40] 
+            Текст ошибки: Контроллер не найден: App\Controllers\admin\AdminController | Файл: /var/www/html/src/wfm/Router.php | Строка: 54
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: css/main.css | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: bootstrap/css/bootstrap.min.css | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: bootstrap/js/bootstrap.bundle.min.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: js/main.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: img/products/imac_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:29:50] 
+            Текст ошибки: Страница не найдена: img/products/iphone_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: bootstrap/css/bootstrap.min.css | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: css/main.css | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: js/main.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: bootstrap/js/bootstrap.bundle.min.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: img/products/imac_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:30:55] 
+            Текст ошибки: Страница не найдена: img/products/iphone_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: css/main.css | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: bootstrap/css/bootstrap.min.css | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: bootstrap/js/bootstrap.bundle.min.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: js/main.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: img/products/imac_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:31:16] 
+            Текст ошибки: Страница не найдена: img/products/iphone_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: css/main.css | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: js/main.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: bootstrap/js/bootstrap.bundle.min.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: img/products/iphone_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: img/products/imac_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:56] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: css/main.css | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: js/main.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: bootstrap/js/bootstrap.bundle.min.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: img/products/imac_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:33:57] 
+            Текст ошибки: Страница не найдена: img/products/iphone_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: css/main.css | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: bootstrap/js/bootstrap.bundle.min.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/products/iphone_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: js/main.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/products/imac_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: css/main.css | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/products/iphone_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: bootstrap/js/bootstrap.bundle.min.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: js/main.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:34:03] 
+            Текст ошибки: Страница не найдена: img/products/imac_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: css/main.css | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: bootstrap/js/bootstrap.bundle.min.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: js/main.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: img/products/iphone_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:35:02] 
+            Текст ошибки: Страница не найдена: img/products/imac_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: bootstrap/js/bootstrap.bundle.min.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: img/products/iphone_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: js/main.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:31] 
+            Текст ошибки: Страница не найдена: img/products/imac_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: bootstrap/js/bootstrap.bundle.min.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: img/products/imac_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: img/products/iphone_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:36:41] 
+            Текст ошибки: Страница не найдена: js/main.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: img/products/iphone_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: img/products/imac_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: bootstrap/js/bootstrap.bundle.min.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:37:18] 
+            Текст ошибки: Страница не найдена: js/main.js | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:38:19] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:38:19] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:38:19] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:38:19] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:38:19] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:40:05] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:40:05] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:40:05] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:40:05] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:40:05] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:41:23] 
+            Текст ошибки: Страница не найдена: img/ru.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:41:23] 
+            Текст ошибки: Страница не найдена: img/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:41:23] 
+            Текст ошибки: Страница не найдена: img/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:41:23] 
+            Текст ошибки: Страница не найдена: img/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:41:23] 
+            Текст ошибки: Страница не найдена: img/en.png | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:45:29] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:45:29] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:51:33] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:51:33] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:51:58] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:51:58] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:55:32] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:55:32] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:57:57] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:57:57] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:58:00] 
+            Текст ошибки: Страница не найдена: index.html | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:58:04] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:58:04] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:58:04] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:58:04] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:58:06] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 13:58:06] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:01:23] 
+            Текст ошибки: Страница не найдена: .well-known/appspecific/com.chrome.devtools.json | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:02:12] 
+            Текст ошибки: Страница не найдена: .well-known/appspecific/com.chrome.devtools.json | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:02:18] 
+            Текст ошибки: Страница не найдена: .well-known/appspecific/com.chrome.devtools.json | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:02:18] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:02:18] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:03:03] 
+            Текст ошибки: Страница не найдена: .well-known/appspecific/com.chrome.devtools.json | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:03:03] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:03:03] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:04:41] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:04:41] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:07:27] 
+            Текст ошибки: Страница не найдена: category.html | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:07:27] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:07:27] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:19:04] 
+            Текст ошибки: require_once(app/views/parts/header.php): Failed to open stream: No such file or directory | Файл: /var/www/html/app/views/layouts/ishop.php | Строка: 23
+[2025-07-08 14:19:56] 
+            Текст ошибки: require_once(app/views/parts/header.php): Failed to open stream: No such file or directory | Файл: /var/www/html/app/views/layouts/ishop.php | Строка: 23
+[2025-07-08 14:20:48] 
+            Текст ошибки: require_once(app/views/parts/header): Failed to open stream: No such file or directory | Файл: /var/www/html/app/views/layouts/ishop.php | Строка: 23
+[2025-07-08 14:26:41] 
+            Текст ошибки: Страница не найдена: category.html | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:26:41] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:26:41] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:39:15] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 14:39:16] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:03:12] 
+            Текст ошибки: Страница не найдена: category.html | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:03:12] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:03:12] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:16:44] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:16:44] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:16:44] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:16:47] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:06] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:07] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:08] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:08] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:08] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:08] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:08] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:08] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:09] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:09] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:09] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:09] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:09] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:09] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:10] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:10] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:10] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:10] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:10] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:10] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:10] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:11] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:11] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:11] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:11] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:11] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:11] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:12] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:12] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:25] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:26] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:27] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:27] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:27] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:27] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:27] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:27] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:27] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:28] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:28] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:28] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:28] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:28] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:28] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:29] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:29] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:30] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:30] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:31] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:17:31] 
+            Текст ошибки: Call to a member function find() on null | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 1054
+[2025-07-08 15:20:56] 
+            Текст ошибки: syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" | Файл: /var/www/html/app/views/Main/index.php | Строка: 196
+[2025-07-08 15:30:23] 
+            Текст ошибки: syntax error, unexpected variable "$i", expecting "(" | Файл: /var/www/html/app/views/Main/index.php | Строка: 11
+[2025-07-08 15:31:39] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:31:39] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:31:39] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:31:45] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:31:45] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:31:45] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:30] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:30] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:30] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:34] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:34] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:34] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:34] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:34] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:34] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:51] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:51] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:51] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:51] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:36:51] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:39:01] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:39:01] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:39:01] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:39:01] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:39:01] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:39:29] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/2.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:39:29] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:39:29] 
+            Текст ошибки: Страница не найдена: public/uploads/images/slider/3.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 15:40:55] 
+            Текст ошибки: Страница не найдена: .well-known/appspecific/com.chrome.devtools.json | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:36:20] 
+            Текст ошибки: Typed property Wfm\Controller::$model must not be accessed before initialization | Файл: /var/www/html/app/Controllers/MainController.php | Строка: 14
+[2025-07-08 16:36:20] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:36:20] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:37:30] 
+            Текст ошибки: Default value for property of type object may not be null. Use the nullable type ?object to allow null default value | Файл: /var/www/html/src/wfm/Controller.php | Строка: 11
+[2025-07-08 16:38:09] 
+            Текст ошибки: Call to a member function get_hits() on null | Файл: /var/www/html/app/Controllers/MainController.php | Строка: 14
+[2025-07-08 16:39:26] 
+            Текст ошибки: Call to a member function get_hits() on null | Файл: /var/www/html/app/Controllers/MainController.php | Строка: 14
+[2025-07-08 16:39:27] 
+            Текст ошибки: Call to a member function get_hits() on null | Файл: /var/www/html/app/Controllers/MainController.php | Строка: 14
+[2025-07-08 16:39:28] 
+            Текст ошибки: Call to a member function get_hits() on null | Файл: /var/www/html/app/Controllers/MainController.php | Строка: 14
+[2025-07-08 16:44:14] 
+            Текст ошибки: Call to a member function get_hits() on null | Файл: /var/www/html/app/Controllers/MainController.php | Строка: 15
+[2025-07-08 16:44:15] 
+            Текст ошибки: Call to a member function get_hits() on null | Файл: /var/www/html/app/Controllers/MainController.php | Строка: 15
+[2025-07-08 16:45:02] 
+            Текст ошибки: Call to a member function get_hits() on null | Файл: /var/www/html/app/Controllers/MainController.php | Строка: 15
+[2025-07-08 16:45:41] 
+            Текст ошибки: Trying to access array offset on value of type bool | Файл: /var/www/html/src/wfm/Db.php | Строка: 15
+[2025-07-08 16:46:29] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:47:14] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:47:15] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:47:16] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:47:16] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:47:16] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:47:16] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:47:17] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:47:17] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:47:17] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:47:17] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:47:18] 
+            Текст ошибки: A database has already been specified for this key. | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Строка: 444
+[2025-07-08 16:50:00] 
+            Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pd.language' in 'where clause' | Файл: /var/www/html/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
+[2025-07-08 16:50:00] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:50:00] 
+            Текст ошибки: Страница не найдена: favicon.ico | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:51:10] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:51:10] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:51:10] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:51:10] 
+            Текст ошибки: Страница не найдена: uploads/godofwarps4 | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:51:18] 
+            Текст ошибки: Контроллер не найден: App\Controllers\ProductController | Файл: /var/www/html/src/wfm/Router.php | Строка: 54
+[2025-07-08 16:51:20] 
+            Текст ошибки: Страница не найдена: product/the-last-of-us-2 | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:52:09] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:52:09] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:52:09] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:52:59] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:52:59] 
+            Текст ошибки: Страница не найдена: uploads/ps4slim | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:52:59] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:52:59] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:53:11] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:53:11] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:53:11] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:54:30] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:54:30] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:54:30] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:56:21] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:56:21] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 16:56:21] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:03:27] 
+            Текст ошибки: Страница не найдена: category.html | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:14:30] 
+            Текст ошибки: Контроллер не найден: App\Controllers\ProductController | Файл: /var/www/html/src/wfm/Router.php | Строка: 54
+[2025-07-08 17:18:22] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:18:22] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:18:22] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:23:02] 
+            Текст ошибки: Не найден файл части: /var/www/html/app/views/parts/products_loop.php.php | Файл: /var/www/html/src/wfm/View.php | Строка: 73
+[2025-07-08 17:23:47] 
+            Текст ошибки: Не найден файл части: /var/www/html/app/views/parts/products_loop.php.php | Файл: /var/www/html/src/wfm/View.php | Строка: 73
+[2025-07-08 17:24:02] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:24:02] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:24:02] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:24:35] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:24:35] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:24:35] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:12] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:12] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:12] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:13] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:13] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:13] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:54] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:54] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:54] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:54] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:54] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:25:54] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:27:05] 
+            Текст ошибки: Страница не найдена: assets/img/products/canon_eos_5d_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:27:05] 
+            Текст ошибки: Страница не найдена: assets/img/products/apple_cinema_30.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57
+[2025-07-08 17:27:05] 
+            Текст ошибки: Страница не найдена: assets/img/products/hp_1.jpg | Файл: /var/www/html/src/wfm/Router.php | Строка: 57

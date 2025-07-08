@@ -17,3 +17,5 @@ define("NO_IMAGE", 'uploads/no-image.jpg');
 
 // подключаем composer autoload
 require_once ROOT . '/vendor/autoload.php';
+
+// Удалена инициализация RedBeanPHP отсюда, чтобы избежать двойного подключения

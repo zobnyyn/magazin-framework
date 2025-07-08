@@ -29,12 +29,12 @@ class Router
         }
     return ''; // если строка запроса пустая, то возвращаем пустую строку
     }
-    public static function dispatch($url)
+    public static function dispatch($url) // метод для обработки URL и вызова соответствующего контроллера и действия
     {
-        $url = self::removeQueryString($url);
-        if(self::matchRoute($url))
+        $url = self::removeQueryString($url); // удаляем строку запроса из URL, если она есть
+        if(self::matchRoute($url)) // проверяем, совпадает ли URL с каким-либо маршрутом
         {
-            $controller = 'App\\Controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
+            $controller = 'App\\Controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller'; // формируем имя контроллера, используя пространство имён и имя контроллера из маршрута
             if (class_exists($controller)) {
 
                 /** @var Controller $controllerObject */ // создаём объект контроллера, используя пространство имён и имя контроллера из маршрута
